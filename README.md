@@ -1,6 +1,6 @@
-# ogrencibilgisistemi
+# Ogrenci Bilgi Sistemi
 
-A new Flutter application.
+Student information system with the Flutter project.
 
 ## Getting Started
 
