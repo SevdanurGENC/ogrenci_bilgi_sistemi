@@ -1,4 +1,4 @@
-# Ogrenci Bilgi Sistemi
+# School Management 
 
 Student information system with the Flutter project.
 
