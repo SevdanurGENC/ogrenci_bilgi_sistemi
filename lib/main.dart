@@ -121,7 +121,7 @@ class _HomeScreenState extends State {
                   ],
                 ),
                 onPressed: () {
-                  Navigator.push(context, MaterialPageRoute(builder: (context)=>StudentAdd(students)));
+                  Navigator.push(context, MaterialPageRoute(builder: (context)=>StudentAdd(students)),).then((res) => setState((){}));
                   //print("Yeni Ogrenci");
                 },
               ),
