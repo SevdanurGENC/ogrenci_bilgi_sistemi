@@ -172,7 +172,9 @@ class _HomeScreenState extends State {
                   ],
                 ),
                 onPressed: () {
-                  print("Sil");
+                  students.remove(selectedStudent);
+                  setState((){});
+                  //print("Sil");
                 },
               ),
             ),
